@@ -2,7 +2,7 @@
 
 yeti is a build system to generate a dark version of arc-theme.
 
-![A screenshot of the theme](https://i.imgur.com/ACFkM10.png)
+![A screenshot of the theme](https://imgur.com/SnSbam0.png)
 
 ### Dependencies to Build
 
