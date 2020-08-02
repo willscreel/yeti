@@ -1,12 +1,12 @@
 # yeti
 
-yeti is a build system to generate a dark, bunsenlabs version of arc-theme.
+yeti is a build system to generate a dark version of arc-theme.
 
 ![A screenshot of the theme](https://i.imgur.com/ACFkM10.png)
 
 ### Dependencies to Build
 
-#### For Debian based distros (bunsenlabs)
+#### For Debian based distros (Ubuntu / BunsenLabs)
 
 * `build-essential` (make)
 * `gtk2-engines-murrine` (optional) - for gtk2 themes
@@ -18,7 +18,7 @@ yeti is a build system to generate a dark, bunsenlabs version of arc-theme.
 * `parallel` (make)
 * `sassc` (make)
 
-#### For Arch based distros (archlabs)
+#### For Arch based distros (Manjaro / ArchLabs)
 
 * `base-devel` (make)
 * `gtk-engine-murrine` (optional) - for gtk2 themes
