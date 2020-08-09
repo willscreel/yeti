@@ -235,10 +235,6 @@ sushi-media-bin box.overlay-bar { @extend %osd; }
 // Thunar
 //
 .thunar {
-  toolbar.horizontal button image {
-    -gtk-icon-transform: scale(0.75);
-  }
-
   scrolledwindow.standard-view {
     border-top-width: 0;
   }
